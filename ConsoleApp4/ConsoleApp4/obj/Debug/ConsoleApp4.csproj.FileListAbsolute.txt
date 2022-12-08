@@ -1,0 +1,7 @@
+E:\3 курс\практика\6 день\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+E:\3 курс\практика\6 день\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+E:\3 курс\практика\6 день\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+E:\3 курс\практика\6 день\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+E:\3 курс\практика\6 день\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+E:\3 курс\практика\6 день\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+E:\3 курс\практика\6 день\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
